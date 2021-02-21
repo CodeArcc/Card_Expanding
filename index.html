@@ -1,62 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>CodeArc</title>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta
-      name="description"
-      content="Codearc is for html and css project with example and source code."
-    />
-    <link rel="stylesheet" href="style/mainStyle.min.css" />
-  </head>
 
-  <body>
-    <div class="projects">
-      <h1>Projects</h1>
-      <hr />
-    </div>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="mainStyle.css">
+    <title> Card Exapanding</title>
+</head>
 
+<body>
     <div class="container">
-      <!-- 1st card -->
-      <div class="card" data-redirect="http://www.codearc.ml/1_card_Expanding/">
-        <div class="imgBox">
-          <img src="images/Expanding_cards.jpg" alt="image1" />
+        <div class="panel active">
+            <h3>Image 1</h3>
         </div>
-        <div class="content">
-          <h2>Expanding Cards</h2>
-          <p>
-            Exapand card on click. Rendom images on every refresh.<br />
-            project is responsive.
-          </p>
+        <div class="panel">
+            <h3>Image 2</h3>
         </div>
-      </div>
-
-      <!-- 2nd card -->
-      <div class="card" data-redirect="http://codearc.ml/2_progress_step/">
-        <div class="imgBox">
-          <img src="images/Step_Progress_bar.jpeg" alt="image2 " />
+        <div class="panel">
+            <h3>Image 3</h3>
         </div>
-        <div class="content">
-          <h2>Step Progressbar</h2>
-          <p>
-            Progress bar with steps. Can add multiple steps and remove them.
-          </p>
+        <div class="panel">
+            <h3>Image 4</h3>
         </div>
-      </div>
-
-      <!-- 3nd card -->
-      <div class="card" data-redirect="http://codearc.ml/3_download_file/">
-        <div class="imgBox">
-          <img src="images/downlad_file.jpg" alt="Download File" />
+        <div class="panel">
+            <h3>Image 5</h3>
         </div>
-        <div class="content">
-          <h2>Download file</h2>
-          <p>Simple download file code using html only.</p>
-        </div>
-      </div>
     </div>
 
-    <script src="js/main.min.js "></script>
-  </body>
+    <script src=mainScript.js"></script>
+</body>
+
 </html>
