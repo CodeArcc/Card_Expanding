@@ -4,9 +4,9 @@ Simple Card created using HTML, CSS and JAVASCRIPT.
 Expand card on click.
 
 ## :balance_scale:Features:balance_scale:
--- Responsive design.
+#-- Responsive design.
 -- images are as per device resolution.
--- Displayed images are Random.
+#-- Displayed images are Random.
 -- Displayed images changes on every refresh.
 -- In mobile device cards are displyed in column.
 
