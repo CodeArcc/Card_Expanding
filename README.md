@@ -1,4 +1,4 @@
-:candle:Card_Expanding:candle:
+# :candle:Card_Expanding:candle:
 Simple Card created using HTML, CSS and JAVASCRIPT.
 ![card Expanding](https://github.com/CodeArcc/card_layout/blob/master/main/images/Expanding_cards.jpg)
 Expand card on click.
