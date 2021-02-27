@@ -1,6 +1,7 @@
 
 <img src="https://github.com/CodeArcc/card_layout/blob/master/main/images/Expanding_cards.jpg" alt="Card Exapnd Image" width="400" height="400" />
-# :candle:Card_Expanding:candle:
+
+## :candle:Card_Expanding:candle:
 - Mini project created using HTML, CSS and JAVASCRIPT.
 - Expand card on click.
 
