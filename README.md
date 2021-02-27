@@ -22,4 +22,4 @@
 
 ## 💬 Local Site 💬
 - Simply clone the project locally and open index.html in a browser. It's Done.
-- Feel free to [contact me](codearctutorials.com) for any questions, concerns, or comments associated with the page.
+- Feel free to <a href="mailto:Codearctutorials@gmail.com">CONTACT ME</a> for any questions, concerns, or comments associated with the page.
