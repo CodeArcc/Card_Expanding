@@ -19,3 +19,7 @@
 
 ## :chains: Live Demo :chains:
 - [Card Expanding DEMO](https://codearc.ml/1_card_Expanding/index.html).
+
+## 💬 Local Site 💬
+- Simply clone the project locally and open index.html in a browser. It's Done.
+- Feel free to [contact me](codearctutorials.com) for any questions, concerns, or comments associated with the page.
